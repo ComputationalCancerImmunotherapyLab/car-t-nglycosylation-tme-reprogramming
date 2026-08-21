@@ -10,3 +10,5 @@ In patient samples, a branched N-glycan signature was associated with transcript
 
 # Conclusions:
 These findings show that N-glycans expressed by non-malignant TME cells restrain CAR-T cell responses in CRC and PDAC, highlighting MGAT5-dependent branching as a potentially actionable axis and supporting a broader role for multiple nodes of the N-glycosylation pathway.
+
+Sirini C, Balestrieri C, Greco B, Camisa B et al. N-glycans in non-malignant tumor microenvironment cells dampen CAR-T cell function in solid tumors. *J Immunother Cancer*. 2026 Aug 12;14(8). PMID: [42586609](https://pubmed.ncbi.nlm.nih.gov/42586609/)
